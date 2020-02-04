@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0CFF5BF5-4A55-AFBD-E94A-299572740D7B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "IKsystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
